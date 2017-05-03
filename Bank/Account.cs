@@ -6,19 +6,15 @@ namespace DIPS
 {
     public class Account
     {
-        public string socialSecurity { get; set; }
+        public Person customer { get; set; }
         public string accountName { get; set; }
         public Money accountBalance { get; set; }
-        public Account(string accountName, Money initialDeposit, string socialSecurity)
+
+        public Account(int serialNumber, Money initialDeposit, Person customer)
         {
-            this.socialSecurity = socialSecurity;
-            this.accountName = accountName;
+            this.customer = customer;
+            accountName = customer.firstName + customer.lastName + serialNumber;
             accountBalance = initialDeposit;
-        }
-        public Account()
-        {
-            accountName = string.Empty;
-            accountName = null;
         }
     }
 }

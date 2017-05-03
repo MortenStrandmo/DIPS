@@ -6,17 +6,16 @@ namespace DIPS
 {
     public class Money
     {
-        private decimal _value;
+        // Stored the balance of the account
+        public decimal value;
 
-        public decimal value
-        {
-            get { return _value; }
-            set { _value = value; }
-        }
+        // Used to identify the owner of the Money
+        public Person customer;
 
-        public Money(decimal value)
+        public Money(decimal value, Person customer)
         {
-            _value = value;
+            this.value = value;
+            this.customer = customer;
         }
     }
 }

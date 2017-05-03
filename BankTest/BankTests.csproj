@@ -48,8 +48,12 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BankTests.cs" />
+    <Compile Include="CreateAccountTests.cs" />
+    <Compile Include="DepositTests.cs" />
+    <Compile Include="GetAccountForCustomerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TransferTests.cs" />
+    <Compile Include="WithdrawTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
