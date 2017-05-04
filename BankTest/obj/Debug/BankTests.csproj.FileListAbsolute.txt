@@ -12,3 +12,17 @@ c:\Users\servicekonto\documents\visual studio 2017\Projects\Bank\BankTest\bin\De
 c:\Users\servicekonto\documents\visual studio 2017\Projects\Bank\BankTest\obj\Debug\BankTest.dll
 c:\Users\servicekonto\documents\visual studio 2017\Projects\Bank\BankTest\obj\Debug\BankTest.pdb
 c:\Users\servicekonto\documents\visual studio 2017\Projects\Bank\BankTest\obj\Debug\BankTests.csprojResolveAssemblyReference.cache
+C:\Users\servicekonto\Desktop\DIPS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\servicekonto\Desktop\DIPS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\servicekonto\Desktop\DIPS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\servicekonto\Desktop\DIPS\BankTest\bin\Debug\BankTest.dll
+C:\Users\servicekonto\Desktop\DIPS\BankTest\bin\Debug\BankTest.pdb
+C:\Users\servicekonto\Desktop\DIPS\BankTest\bin\Debug\Bank.dll
+C:\Users\servicekonto\Desktop\DIPS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\servicekonto\Desktop\DIPS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\servicekonto\Desktop\DIPS\BankTest\bin\Debug\Bank.pdb
+C:\Users\servicekonto\Desktop\DIPS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\servicekonto\Desktop\DIPS\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\servicekonto\Desktop\DIPS\BankTest\obj\Debug\BankTests.csprojResolveAssemblyReference.cache
+C:\Users\servicekonto\Desktop\DIPS\BankTest\obj\Debug\BankTest.dll
+C:\Users\servicekonto\Desktop\DIPS\BankTest\obj\Debug\BankTest.pdb

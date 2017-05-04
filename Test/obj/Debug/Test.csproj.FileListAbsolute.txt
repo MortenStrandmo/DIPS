@@ -6,3 +6,11 @@ c:\Users\servicekonto\documents\visual studio 2017\Projects\Bank\Test\bin\Debug\
 c:\Users\servicekonto\documents\visual studio 2017\Projects\Bank\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 c:\Users\servicekonto\documents\visual studio 2017\Projects\Bank\Test\obj\Debug\Test.exe
 c:\Users\servicekonto\documents\visual studio 2017\Projects\Bank\Test\obj\Debug\Test.pdb
+C:\Users\servicekonto\Desktop\DIPS\Test\bin\Debug\Test.exe.config
+C:\Users\servicekonto\Desktop\DIPS\Test\bin\Debug\Test.exe
+C:\Users\servicekonto\Desktop\DIPS\Test\bin\Debug\Test.pdb
+C:\Users\servicekonto\Desktop\DIPS\Test\bin\Debug\Bank.dll
+C:\Users\servicekonto\Desktop\DIPS\Test\bin\Debug\Bank.pdb
+C:\Users\servicekonto\Desktop\DIPS\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\servicekonto\Desktop\DIPS\Test\obj\Debug\Test.exe
+C:\Users\servicekonto\Desktop\DIPS\Test\obj\Debug\Test.pdb

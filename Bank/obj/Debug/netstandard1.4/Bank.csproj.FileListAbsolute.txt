@@ -5,3 +5,10 @@ c:\users\servicekonto\documents\visual studio 2017\Projects\Bank\Bank\obj\Debug\
 c:\users\servicekonto\documents\visual studio 2017\Projects\Bank\Bank\obj\Debug\netstandard1.4\Bank.AssemblyInfo.cs
 c:\users\servicekonto\documents\visual studio 2017\Projects\Bank\Bank\obj\Debug\netstandard1.4\Bank.dll
 c:\users\servicekonto\documents\visual studio 2017\Projects\Bank\Bank\obj\Debug\netstandard1.4\Bank.pdb
+C:\Users\servicekonto\Desktop\DIPS\Bank\bin\Debug\netstandard1.4\Bank.deps.json
+C:\Users\servicekonto\Desktop\DIPS\Bank\bin\Debug\netstandard1.4\Bank.dll
+C:\Users\servicekonto\Desktop\DIPS\Bank\bin\Debug\netstandard1.4\Bank.pdb
+C:\Users\servicekonto\Desktop\DIPS\Bank\obj\Debug\netstandard1.4\Bank.csprojResolveAssemblyReference.cache
+C:\Users\servicekonto\Desktop\DIPS\Bank\obj\Debug\netstandard1.4\Bank.AssemblyInfo.cs
+C:\Users\servicekonto\Desktop\DIPS\Bank\obj\Debug\netstandard1.4\Bank.dll
+C:\Users\servicekonto\Desktop\DIPS\Bank\obj\Debug\netstandard1.4\Bank.pdb

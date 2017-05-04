@@ -3708,10 +3708,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\servicekonto\\documents\\visual studio 2017\\Projects\\Bank\\Bank\\Bank.csproj",
+      "projectUniqueName": "C:\\Users\\servicekonto\\Desktop\\DIPS\\Bank\\Bank.csproj",
       "projectName": "Bank",
-      "projectPath": "c:\\users\\servicekonto\\documents\\visual studio 2017\\Projects\\Bank\\Bank\\Bank.csproj",
-      "outputPath": "c:\\users\\servicekonto\\documents\\visual studio 2017\\Projects\\Bank\\Bank\\obj\\",
+      "projectPath": "C:\\Users\\servicekonto\\Desktop\\DIPS\\Bank\\Bank.csproj",
+      "outputPath": "C:\\Users\\servicekonto\\Desktop\\DIPS\\Bank\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
